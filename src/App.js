@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
- 
->>>>>>> 1b9bee6f6ceb32cfc3e6d6e0493ebff685582e85
+
 import './App.css';
 import Navbar from './Component/navbar/navbar'
 
@@ -13,7 +10,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
-<<<<<<< HEAD
+
     
     <>
       <Router>
@@ -30,10 +27,10 @@ function App() {
 
 
       </Router>
-=======
+
     < >
    
->>>>>>> 1b9bee6f6ceb32cfc3e6d6e0493ebff685582e85
+
     </>
   );
 }
